@@ -1,9 +1,33 @@
-Hello, my name is **Aditya Putra Pratama**, and I am a React Native developer with a passion for creating innovative and engaging mobile applications. I have 4 Years of experience in mobile app development, and have a strong track record of delivering high-quality products that exceed user expectations.
+# Hello, I'm Adit 👋
+**Backend Developer | Frontend Developer | Fullstack Developer**
 
-My technical skills include proficiency in JavaScript, React, Redux, and other web technologies, as well as experience with state management, performance optimization, and integrating with third-party APIs and libraries. I am also skilled in using various testing methodologies to ensure that my code is reliable and scalable.
+## Who Am I?
+I am Adit, a passionate and experienced developer specializing in backend and frontend development. With years of expertise, I am dedicated to creating scalable and maintainable solutions.
 
-Throughout my career, I have collaborated with cross-functional teams to deliver successful projects on time and within budget. I am committed to maintaining open and transparent communication with team members and stakeholders, and to providing exceptional customer service.
+## What Do I Do?
+I work with various technologies and frameworks to build robust applications. My primary focus areas are:
 
-My passion for learning and staying up-to-date with emerging technologies and industry trends is reflected in my contributions to the open-source community, as well as my personal projects. I am always seeking new challenges and opportunities to grow and improve as a developer.
+- [x] Backend:  [Golang, NestJS]
+- [x] Database: [MongoDB, PostgreSQL, MySQL]
+- [x] Frontend: [React, React Native]
 
-Thank you for considering my application, and I look forward to discussing my qualifications further.
+## When Did I Start?
+My journey in the tech world began 4 years ago, and since then, I have continuously evolved my skills and knowledge to stay ahead in the industry.
+
+## Where Am I From?
+I hail from Duren Sawit, Jakarta Timur, Indonesia, a place that fuels my creativity and passion for technology.
+
+## Why Choose Me?
+- [x] Experience: Extensive background in both backend and frontend development.
+- [x] Focus: Committed to delivering scalable and maintainable solutions.
+- [x] Values: Dedicated to integrating Islamic principles into my daily work and life.
+
+## How Do I Work?
+I follow a structured approach to development, ensuring efficient and productive workflows. 
+**My goals include:**
+- [x] Enhancing productivity and efficiency at work.
+- [x] Memorizing the Qur'an.
+
+**Get in Touch**
+- Email: [adityaputrapratama39@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/aditya-putra-pratama/]
