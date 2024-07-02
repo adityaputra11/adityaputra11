@@ -24,7 +24,7 @@ I hail from Duren Sawit, Jakarta Timur, Indonesia, a place that fuels my creativ
 
 ## How Do I Work?
 I follow a structured approach to development, ensuring efficient and productive workflows. 
-**My goals include:**
+### My goals include:
 - [x] Enhancing productivity and efficiency at work.
 - [x] Memorizing the Qur'an.
 
